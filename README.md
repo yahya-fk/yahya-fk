@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋! </h1>
 <h3 align="center">Yahya FEKRANE</h3>
 <h2 align="left">About me :</h2>
-<h3 align="center">"An IT engineering student in my fourth year, very passionate about developing and the IT world in general."</h3>
+<h3 align="center">"IT engineering student in my 5Th year, very passionate about developing and the IT world in general."</h3>
 
 - 🌱 I’m currently learning **JEE, Android Studio**
 
