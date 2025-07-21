@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋! </h1>
 <h3 align="center">Yahya FEKRANE</h3>
-<h2 align="left">About me :</h2>
 <h3 align="center">"Software engineer"</h3>
 
 - 📫 How to reach me **Fekyah0@gmail.com**
